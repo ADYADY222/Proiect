@@ -53,6 +53,8 @@ class FlyMode {
 		mp.game.graphics.notify(this.enabled ? 'Fly: ~g~Enabled' : 'Fly: ~r~Disabled');
 	}
 
+AICI ESTE O LINIE EDITATA DE TEST
+
 	private onRender() {
 		if (!this.enabled) return;
 
